@@ -9,7 +9,7 @@
 
 ### Discord Status
 <a href="https://discord.com/users/743736783270838295">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/743736783270838295.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/961680194656153680.png" />
 </a>
 
 ### Contact me: 
