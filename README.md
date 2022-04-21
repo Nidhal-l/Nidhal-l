@@ -6,7 +6,10 @@
 - ✅ [Click me](https://github.com/Nidhal-l) to use my codes
 
 ---
-
+<center>
+    <img src="https://komarev.com/ghpvc/?username=Nidhal-I"/>
+<center>
+  
 ### Discord Status
 <a href="https://discord.com/users/743736783270838295">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/743736783270838295.png" />
