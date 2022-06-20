@@ -2,7 +2,6 @@
 <h3 align="center">An average coder</h3>
 
 - 😄 Pronouns: He/Him
-- 🤖 MyBot: [Invite Me!](https://github.com/Nidhal-l)
 - ✅ [Click me](https://github.com/Nidhal-l) to use my codes
 
 ---
